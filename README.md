@@ -8,7 +8,7 @@
 
 Senior Software Architect with over 15 years of experience bridging the gap between mission-critical hardware (OT) and modern AI architecture (IT). I possess a unique dual background: serving as **Lead Software Architect** for Ambev's proprietary Computer Vision Platform (**SODA Vision**), while simultaneously deploying custom Edge AI solutions for global clients through my specialized consultancy, **Baunilha Systems**.
 
-My expertise goes beyond training models; I engineer **entire ecosystems**. I specialize in building robust, offline-first architectures that solve physical problems in the real world, having deployed solutions for **Colgate-Palmolive (USA/Mexico)**, **Petrobras (Offshore)**, **Infraero**, and major public infrastructure projects.
+My expertise goes beyond training models; I engineer **entire ecosystems**. I specialize in building robust, offline-first architectures that solve physical problems in the real world, having deployed solutions for **Colgate-Palmolive (USA/Mexico)**, **AB-Inbev**, **Petrobras (Offshore)**, **Infraero**, and major public infrastructure projects.
 
 ## **TECHNICAL SKILLS**
 
