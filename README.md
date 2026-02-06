@@ -26,13 +26,14 @@ My expertise goes beyond training models; I engineer **entire ecosystems**. I sp
 
 *Founded a specialized engineering consultancy focused on delivering custom Industrial AI and complete IoT ecosystems for global clients.*
 
-* **Global Edge AI Deployment (Colgate-Palmolive):** \* Architected and deployed a Deep Learning visual inspection system to replace legacy sensors in high-speed production lines.  
+* **Global Edge AI Deployment (Colgate-Palmolive):**  
+  * Architected and deployed a Deep Learning visual inspection system to replace legacy sensors in high-speed production lines.  
   * **Execution:** Traveled on-site to **USA and Mexico** facilities to oversee the physical installation, calibration, and validation of Edge AI hardware (**GPU-accelerated Industrial PCs**).  
   * **Impact:** Significantly reduced false rejection rates and enabled real-time quality analytics.  
-* **Marvitech Platform (Full-Stack Architecture):** \* **IoT Fleet Management:** Engineered a robust fleet management system for Raspberry Pi devices using **Balena IoT**, ensuring reliable OTA updates and remote telemetry.  
-  * **Platform Architecture:** Architected a multi-tenant backend using **.NET 9** (Clean Architecture/DDD) and **PostgreSQL**, orchestrated with Docker and Traefik.  
+* **Marvitech Platform (Full-Stack Architecture):**  
+  * **IoT Fleet Management:** Engineered a robust fleet management system for Raspberry Pi devices using **Balena IoT**, ensuring reliable OTA updates and remote telemetry.  
+  * **Platform Architecture:** Architected a multi-tenant backend using **.NET 9** (Clean Architecture/DDD) and **PostgreSQL**, orchestrated with Docker and Traefik, ensuring secure data ingestion from mobile app and vending machines.  
   * **Mobile Engineering:** Developed an **offline-first mobile app** using **Flutter** (Riverpod), implementing background synchronization to guarantee operation in areas with poor connectivity.
-  * Orchestrated the entire infrastructure using Docker and Traefik, ensuring secure data ingestion from mobile app and vending machines.
 
 ### **Ambev Tech (AB InBev) | *Software Architect & Tech Lead***
 
