@@ -1,6 +1,6 @@
 # **Alexandre Mendonça Alvaro**
 
-**Senior Edge AI Engineer | Industrial Computer Vision Specialist**
+**Senior AI Engineer | Industrial Computer Vision Specialist**
 
 *(Remote / Brazil) • [alexandre.alvaro@hotmail.com](mailto:alexandre.alvaro@hotmail.com) • [LinkedIn Profile](https://www.linkedin.com/in/alexandrealvaro)
 
